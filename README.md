@@ -4,6 +4,7 @@ A style guide for crafting standardised, flexible, maintainable HTML &amp; CSS. 
 ## Why?
 First things first, let's get this out of the way:
 *CSS sucks*
+No scoping, cascades like hell, no separation of concerns... There's a lot of problems with CSS us devs have to face.
 
 "CSS and HTML are easy, why would I need to use a style guide?" I hear you ask? Well, while it may be a cake-walk to spew out HTML &amp; CSS, writing high quality, durable and maintainable HTML &amp; CSS takes a bit more planning and forethought. While they are not a bullet proof solution, Style Guides can often help you with making smart decisions for your project.
 
