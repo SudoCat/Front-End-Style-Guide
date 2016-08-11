@@ -44,7 +44,10 @@ We'll be using a lot of existing tools, technologies and techniques to help us w
   - Media Queries
   - Editor Config
   - Whitespace
-  - Linting
+  - Tools
+    - SASS
+    - PostCSS
+    - Linting
 - JS { Coming One Day }
 
 ## Credits
